@@ -10245,14 +10245,14 @@
       "name": "Q8 Easy"
     }
   },
-  "amenity/fuel|QT": {
+  "amenity/fuel|QuikTrip": {
     "count": 59,
     "tags": {
       "amenity": "fuel",
-      "brand": "QT",
+      "brand": "QuikTrip",
       "brand:wikidata": "Q7271953",
       "brand:wikipedia": "en:QuikTrip",
-      "name": "QT"
+      "name": "QuikTrip"
     }
   },
   "amenity/fuel|Qstar": {
